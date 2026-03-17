@@ -1,0 +1,15 @@
+# Node modules and downloaded artifacts
+downloads/
+scripts/node_modules/
+node_modules/
+
+# Python virtualenv (if any) and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Misc
+*.log
+*.tmp
+*.temp
